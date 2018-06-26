@@ -1,3 +1,5 @@
+This repository is no longer under development - please enjoy! there's no support or additional documentation :)
+
 # MicroPython TravisCI Deploy
 
 Scripts to automatically generate MicroPython .mpy files and packages for
